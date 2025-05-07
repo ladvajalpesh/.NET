@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dotnet\\Collection_prectice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6662BD86-D910-4BC0-AFBD-7877A60C8479}|Collection_prectice\\Collection_prectice.csproj|d:\\dotnet\\collection_prectice\\collection_prectice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6662BD86-D910-4BC0-AFBD-7877A60C8479}|Collection_prectice\\Collection_prectice.csproj|solutionrelative:collection_prectice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 307,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 401,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dotnet\\Collection_prectice\\Collection_prectice\\Program.cs",
+              "RelativeDocumentMoniker": "Collection_prectice\\Program.cs",
+              "ToolTip": "D:\\dotnet\\Collection_prectice\\Collection_prectice\\Program.cs",
+              "RelativeToolTip": "Collection_prectice\\Program.cs",
+              "ViewState": "AgIAAAEAAAAMmZmZmVkqwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T07:42:48.801Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

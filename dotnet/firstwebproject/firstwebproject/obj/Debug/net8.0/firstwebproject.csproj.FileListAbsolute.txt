@@ -1,0 +1,14 @@
+D:\dotnet\firstwebproject\firstwebproject\bin\Debug\net8.0\firstwebproject.exe
+D:\dotnet\firstwebproject\firstwebproject\bin\Debug\net8.0\firstwebproject.deps.json
+D:\dotnet\firstwebproject\firstwebproject\bin\Debug\net8.0\firstwebproject.runtimeconfig.json
+D:\dotnet\firstwebproject\firstwebproject\bin\Debug\net8.0\firstwebproject.dll
+D:\dotnet\firstwebproject\firstwebproject\bin\Debug\net8.0\firstwebproject.pdb
+D:\dotnet\firstwebproject\firstwebproject\obj\Debug\net8.0\firstwebproject.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\firstwebproject\firstwebproject\obj\Debug\net8.0\firstwebproject.AssemblyInfoInputs.cache
+D:\dotnet\firstwebproject\firstwebproject\obj\Debug\net8.0\firstwebproject.AssemblyInfo.cs
+D:\dotnet\firstwebproject\firstwebproject\obj\Debug\net8.0\firstwebproject.csproj.CoreCompileInputs.cache
+D:\dotnet\firstwebproject\firstwebproject\obj\Debug\net8.0\firstwebproject.dll
+D:\dotnet\firstwebproject\firstwebproject\obj\Debug\net8.0\refint\firstwebproject.dll
+D:\dotnet\firstwebproject\firstwebproject\obj\Debug\net8.0\firstwebproject.pdb
+D:\dotnet\firstwebproject\firstwebproject\obj\Debug\net8.0\firstwebproject.genruntimeconfig.cache
+D:\dotnet\firstwebproject\firstwebproject\obj\Debug\net8.0\ref\firstwebproject.dll

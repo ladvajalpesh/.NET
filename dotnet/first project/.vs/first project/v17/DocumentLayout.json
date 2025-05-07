@@ -1,0 +1,295 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dotnet\\first project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7516B6-7D89-4946-BF48-B4DAA2D5805D}|first project.csproj|d:\\dotnet\\first project\\arrayprectice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B7516B6-7D89-4946-BF48-B4DAA2D5805D}|first project.csproj|solutionrelative:arrayprectice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7516B6-7D89-4946-BF48-B4DAA2D5805D}|first project.csproj|D:\\dotnet\\first project\\addchar_front\u0026back.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B7516B6-7D89-4946-BF48-B4DAA2D5805D}|first project.csproj|solutionrelative:addchar_front\u0026back.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|first project||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7516B6-7D89-4946-BF48-B4DAA2D5805D}|first project.csproj|D:\\dotnet\\first project\\compute_sum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B7516B6-7D89-4946-BF48-B4DAA2D5805D}|first project.csproj|solutionrelative:compute_sum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7516B6-7D89-4946-BF48-B4DAA2D5805D}|first project.csproj|D:\\dotnet\\first project\\avereg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B7516B6-7D89-4946-BF48-B4DAA2D5805D}|first project.csproj|solutionrelative:avereg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7516B6-7D89-4946-BF48-B4DAA2D5805D}|first project.csproj|D:\\dotnet\\first project\\specified_formula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B7516B6-7D89-4946-BF48-B4DAA2D5805D}|first project.csproj|solutionrelative:specified_formula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7516B6-7D89-4946-BF48-B4DAA2D5805D}|first project.csproj|D:\\dotnet\\first project\\revers_array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B7516B6-7D89-4946-BF48-B4DAA2D5805D}|first project.csproj|solutionrelative:revers_array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7516B6-7D89-4946-BF48-B4DAA2D5805D}|first project.csproj|D:\\dotnet\\first project\\multiplyof_three_num.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B7516B6-7D89-4946-BF48-B4DAA2D5805D}|first project.csproj|solutionrelative:multiplyof_three_num.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7516B6-7D89-4946-BF48-B4DAA2D5805D}|first project.csproj|D:\\dotnet\\first project\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4B7516B6-7D89-4946-BF48-B4DAA2D5805D}|first project.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7516B6-7D89-4946-BF48-B4DAA2D5805D}|first project.csproj|D:\\dotnet\\first project\\factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B7516B6-7D89-4946-BF48-B4DAA2D5805D}|first project.csproj|solutionrelative:factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7516B6-7D89-4946-BF48-B4DAA2D5805D}|first project.csproj|D:\\dotnet\\first project\\fibonaci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B7516B6-7D89-4946-BF48-B4DAA2D5805D}|first project.csproj|solutionrelative:fibonaci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7516B6-7D89-4946-BF48-B4DAA2D5805D}|first project.csproj|D:\\dotnet\\first project\\array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B7516B6-7D89-4946-BF48-B4DAA2D5805D}|first project.csproj|solutionrelative:array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7516B6-7D89-4946-BF48-B4DAA2D5805D}|first project.csproj|D:\\dotnet\\first project\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B7516B6-7D89-4946-BF48-B4DAA2D5805D}|first project.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7516B6-7D89-4946-BF48-B4DAA2D5805D}|first project.csproj|D:\\dotnet\\first project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B7516B6-7D89-4946-BF48-B4DAA2D5805D}|first project.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7516B6-7D89-4946-BF48-B4DAA2D5805D}|first project.csproj|D:\\dotnet\\first project\\inheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B7516B6-7D89-4946-BF48-B4DAA2D5805D}|first project.csproj|solutionrelative:inheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7516B6-7D89-4946-BF48-B4DAA2D5805D}|first project.csproj|D:\\dotnet\\first project\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B7516B6-7D89-4946-BF48-B4DAA2D5805D}|first project.csproj|solutionrelative:bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7516B6-7D89-4946-BF48-B4DAA2D5805D}|first project.csproj|D:\\dotnet\\first project\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B7516B6-7D89-4946-BF48-B4DAA2D5805D}|first project.csproj|solutionrelative:table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "arrayprectice.cs",
+              "DocumentMoniker": "D:\\dotnet\\first project\\arrayprectice.cs",
+              "RelativeDocumentMoniker": "arrayprectice.cs",
+              "ToolTip": "D:\\dotnet\\first project\\arrayprectice.cs",
+              "RelativeToolTip": "arrayprectice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T08:47:07.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "addchar_front\u0026back.cs",
+              "DocumentMoniker": "D:\\dotnet\\first project\\addchar_front\u0026back.cs",
+              "RelativeDocumentMoniker": "addchar_front\u0026back.cs",
+              "ToolTip": "D:\\dotnet\\first project\\addchar_front\u0026back.cs",
+              "RelativeToolTip": "addchar_front\u0026back.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T08:35:55.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "compute_sum.cs",
+              "DocumentMoniker": "D:\\dotnet\\first project\\compute_sum.cs",
+              "RelativeDocumentMoniker": "compute_sum.cs",
+              "ToolTip": "D:\\dotnet\\first project\\compute_sum.cs",
+              "RelativeToolTip": "compute_sum.cs",
+              "ViewState": "AgIAAAUAAABgZWZmZmYGwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T08:19:12.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\dotnet\\first project\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "D:\\dotnet\\first project\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-04T09:55:33.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "revers_array.cs",
+              "DocumentMoniker": "D:\\dotnet\\first project\\revers_array.cs",
+              "RelativeDocumentMoniker": "revers_array.cs",
+              "ToolTip": "D:\\dotnet\\first project\\revers_array.cs",
+              "RelativeToolTip": "revers_array.cs",
+              "ViewState": "AgIAAAkAAAAgzszMzMwYwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T08:55:13.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "array.cs",
+              "DocumentMoniker": "D:\\dotnet\\first project\\array.cs",
+              "RelativeDocumentMoniker": "array.cs",
+              "ToolTip": "D:\\dotnet\\first project\\array.cs",
+              "RelativeToolTip": "array.cs",
+              "ViewState": "AgIAAAYAAAAA/v////8PwAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T11:22:48.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "inheritance.cs",
+              "DocumentMoniker": "D:\\dotnet\\first project\\inheritance.cs",
+              "RelativeDocumentMoniker": "inheritance.cs",
+              "ToolTip": "D:\\dotnet\\first project\\inheritance.cs",
+              "RelativeToolTip": "inheritance.cs",
+              "ViewState": "AgIAABgAAACAAgAAAAAKwAMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T07:58:35.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "specified_formula.cs",
+              "DocumentMoniker": "D:\\dotnet\\first project\\specified_formula.cs",
+              "RelativeDocumentMoniker": "specified_formula.cs",
+              "ToolTip": "D:\\dotnet\\first project\\specified_formula.cs",
+              "RelativeToolTip": "specified_formula.cs",
+              "ViewState": "AgIAAAUAAABgZmZmZmYkwBYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T10:25:39.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "avereg.cs",
+              "DocumentMoniker": "D:\\dotnet\\first project\\avereg.cs",
+              "RelativeDocumentMoniker": "avereg.cs",
+              "ToolTip": "D:\\dotnet\\first project\\avereg.cs",
+              "RelativeToolTip": "avereg.cs",
+              "ViewState": "AgIAAAwAAACA/zIzMzPjvxYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T10:01:28.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "table.cs",
+              "DocumentMoniker": "D:\\dotnet\\first project\\table.cs",
+              "RelativeDocumentMoniker": "table.cs",
+              "ToolTip": "D:\\dotnet\\first project\\table.cs",
+              "RelativeToolTip": "table.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T09:48:13.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "multiplyof_three_num.cs",
+              "DocumentMoniker": "D:\\dotnet\\first project\\multiplyof_three_num.cs",
+              "RelativeDocumentMoniker": "multiplyof_three_num.cs",
+              "ToolTip": "D:\\dotnet\\first project\\multiplyof_three_num.cs",
+              "RelativeToolTip": "multiplyof_three_num.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T09:19:16.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "factorial.cs",
+              "DocumentMoniker": "D:\\dotnet\\first project\\factorial.cs",
+              "RelativeDocumentMoniker": "factorial.cs",
+              "ToolTip": "D:\\dotnet\\first project\\factorial.cs",
+              "RelativeToolTip": "factorial.cs",
+              "ViewState": "AgIAAAUAAACQZWZmZmYkwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T08:24:05.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "fibonaci.cs",
+              "DocumentMoniker": "D:\\dotnet\\first project\\fibonaci.cs",
+              "RelativeDocumentMoniker": "fibonaci.cs",
+              "ToolTip": "D:\\dotnet\\first project\\fibonaci.cs",
+              "RelativeToolTip": "fibonaci.cs",
+              "ViewState": "AgIAAAQAAAA0MzMzMzMnwBQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T08:00:21.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "student.cs",
+              "DocumentMoniker": "D:\\dotnet\\first project\\student.cs",
+              "RelativeDocumentMoniker": "student.cs",
+              "ToolTip": "D:\\dotnet\\first project\\student.cs",
+              "RelativeToolTip": "student.cs",
+              "ViewState": "AgIAABUAAACAmZmZmRkTwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T07:42:26.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "bank.cs",
+              "DocumentMoniker": "D:\\dotnet\\first project\\bank.cs",
+              "RelativeDocumentMoniker": "bank.cs",
+              "ToolTip": "D:\\dotnet\\first project\\bank.cs",
+              "RelativeToolTip": "bank.cs",
+              "ViewState": "AgIAADgAAABAMzMzMzMUwBEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T13:25:46.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "first project",
+              "DocumentMoniker": "D:\\dotnet\\first project\\first project.csproj",
+              "RelativeDocumentMoniker": "first project.csproj",
+              "ToolTip": "D:\\dotnet\\first project\\first project.csproj",
+              "RelativeToolTip": "first project.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-10T17:47:38.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dotnet\\first project\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\dotnet\\first project\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T17:41:26.807Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

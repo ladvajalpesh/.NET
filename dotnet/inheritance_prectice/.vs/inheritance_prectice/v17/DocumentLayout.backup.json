@@ -1,0 +1,244 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dotnet\\inheritance_prectice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79DC8E34-E733-4565-B477-BF5DE9C9736B}|inheritance_prectice\\inheritance_prectice.csproj|d:\\dotnet\\inheritance_prectice\\inheritance_prectice\\class5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79DC8E34-E733-4565-B477-BF5DE9C9736B}|inheritance_prectice\\inheritance_prectice.csproj|solutionrelative:inheritance_prectice\\class5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79DC8E34-E733-4565-B477-BF5DE9C9736B}|inheritance_prectice\\inheritance_prectice.csproj|D:\\dotnet\\inheritance_prectice\\inheritance_prectice\\class4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79DC8E34-E733-4565-B477-BF5DE9C9736B}|inheritance_prectice\\inheritance_prectice.csproj|solutionrelative:inheritance_prectice\\class4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79DC8E34-E733-4565-B477-BF5DE9C9736B}|inheritance_prectice\\inheritance_prectice.csproj|D:\\dotnet\\inheritance_prectice\\inheritance_prectice\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79DC8E34-E733-4565-B477-BF5DE9C9736B}|inheritance_prectice\\inheritance_prectice.csproj|solutionrelative:inheritance_prectice\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79DC8E34-E733-4565-B477-BF5DE9C9736B}|inheritance_prectice\\inheritance_prectice.csproj|D:\\dotnet\\inheritance_prectice\\inheritance_prectice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79DC8E34-E733-4565-B477-BF5DE9C9736B}|inheritance_prectice\\inheritance_prectice.csproj|solutionrelative:inheritance_prectice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79DC8E34-E733-4565-B477-BF5DE9C9736B}|inheritance_prectice\\inheritance_prectice.csproj|D:\\dotnet\\inheritance_prectice\\inheritance_prectice\\personandstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79DC8E34-E733-4565-B477-BF5DE9C9736B}|inheritance_prectice\\inheritance_prectice.csproj|solutionrelative:inheritance_prectice\\personandstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79DC8E34-E733-4565-B477-BF5DE9C9736B}|inheritance_prectice\\inheritance_prectice.csproj|D:\\dotnet\\inheritance_prectice\\inheritance_prectice\\class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79DC8E34-E733-4565-B477-BF5DE9C9736B}|inheritance_prectice\\inheritance_prectice.csproj|solutionrelative:inheritance_prectice\\class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|inheritance_prectice||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79DC8E34-E733-4565-B477-BF5DE9C9736B}|inheritance_prectice\\inheritance_prectice.csproj|D:\\dotnet\\inheritance_prectice\\inheritance_prectice\\question3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79DC8E34-E733-4565-B477-BF5DE9C9736B}|inheritance_prectice\\inheritance_prectice.csproj|solutionrelative:inheritance_prectice\\question3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79DC8E34-E733-4565-B477-BF5DE9C9736B}|inheritance_prectice\\inheritance_prectice.csproj|D:\\dotnet\\inheritance_prectice\\inheritance_prectice\\question6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79DC8E34-E733-4565-B477-BF5DE9C9736B}|inheritance_prectice\\inheritance_prectice.csproj|solutionrelative:inheritance_prectice\\question6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79DC8E34-E733-4565-B477-BF5DE9C9736B}|inheritance_prectice\\inheritance_prectice.csproj|D:\\dotnet\\inheritance_prectice\\inheritance_prectice\\question5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79DC8E34-E733-4565-B477-BF5DE9C9736B}|inheritance_prectice\\inheritance_prectice.csproj|solutionrelative:inheritance_prectice\\question5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79DC8E34-E733-4565-B477-BF5DE9C9736B}|inheritance_prectice\\inheritance_prectice.csproj|D:\\dotnet\\inheritance_prectice\\inheritance_prectice\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{79DC8E34-E733-4565-B477-BF5DE9C9736B}|inheritance_prectice\\inheritance_prectice.csproj|solutionrelative:inheritance_prectice\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79DC8E34-E733-4565-B477-BF5DE9C9736B}|inheritance_prectice\\inheritance_prectice.csproj|D:\\dotnet\\inheritance_prectice\\inheritance_prectice\\question4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79DC8E34-E733-4565-B477-BF5DE9C9736B}|inheritance_prectice\\inheritance_prectice.csproj|solutionrelative:inheritance_prectice\\question4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79DC8E34-E733-4565-B477-BF5DE9C9736B}|inheritance_prectice\\inheritance_prectice.csproj|D:\\dotnet\\inheritance_prectice\\inheritance_prectice\\question2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79DC8E34-E733-4565-B477-BF5DE9C9736B}|inheritance_prectice\\inheritance_prectice.csproj|solutionrelative:inheritance_prectice\\question2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79DC8E34-E733-4565-B477-BF5DE9C9736B}|inheritance_prectice\\inheritance_prectice.csproj|D:\\dotnet\\inheritance_prectice\\inheritance_prectice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79DC8E34-E733-4565-B477-BF5DE9C9736B}|inheritance_prectice\\inheritance_prectice.csproj|solutionrelative:inheritance_prectice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "question4.cs",
+              "DocumentMoniker": "D:\\dotnet\\inheritance_prectice\\inheritance_prectice\\question4.cs",
+              "RelativeDocumentMoniker": "inheritance_prectice\\question4.cs",
+              "ToolTip": "D:\\dotnet\\inheritance_prectice\\inheritance_prectice\\question4.cs",
+              "RelativeToolTip": "inheritance_prectice\\question4.cs",
+              "ViewState": "AgIAAAQAAAAA9P/////nvwsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T18:40:33.019Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class5.cs",
+              "DocumentMoniker": "D:\\dotnet\\inheritance_prectice\\inheritance_prectice\\Class5.cs",
+              "RelativeDocumentMoniker": "inheritance_prectice\\Class5.cs",
+              "ToolTip": "D:\\dotnet\\inheritance_prectice\\inheritance_prectice\\Class5.cs",
+              "RelativeToolTip": "inheritance_prectice\\Class5.cs",
+              "ViewState": "AgIAAAEAAAAA4P/////fvwgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T09:43:50.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class4.cs",
+              "DocumentMoniker": "D:\\dotnet\\inheritance_prectice\\inheritance_prectice\\Class4.cs",
+              "RelativeDocumentMoniker": "inheritance_prectice\\Class4.cs",
+              "ToolTip": "D:\\dotnet\\inheritance_prectice\\inheritance_prectice\\Class4.cs",
+              "RelativeToolTip": "inheritance_prectice\\Class4.cs",
+              "ViewState": "AgIAAAUAAABAMjMzMzMbwAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T09:10:43.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class3.cs",
+              "DocumentMoniker": "D:\\dotnet\\inheritance_prectice\\inheritance_prectice\\Class3.cs",
+              "RelativeDocumentMoniker": "inheritance_prectice\\Class3.cs",
+              "ToolTip": "D:\\dotnet\\inheritance_prectice\\inheritance_prectice\\Class3.cs",
+              "RelativeToolTip": "inheritance_prectice\\Class3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T08:59:13.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class2.cs",
+              "DocumentMoniker": "D:\\dotnet\\inheritance_prectice\\inheritance_prectice\\Class2.cs",
+              "RelativeDocumentMoniker": "inheritance_prectice\\Class2.cs",
+              "ToolTip": "D:\\dotnet\\inheritance_prectice\\inheritance_prectice\\Class2.cs",
+              "RelativeToolTip": "inheritance_prectice\\Class2.cs",
+              "ViewState": "AgIAABMAAABAAQAAAAAcwAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T08:39:29.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\dotnet\\inheritance_prectice\\inheritance_prectice\\Class1.cs",
+              "RelativeDocumentMoniker": "inheritance_prectice\\Class1.cs",
+              "ToolTip": "D:\\dotnet\\inheritance_prectice\\inheritance_prectice\\Class1.cs",
+              "RelativeToolTip": "inheritance_prectice\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T08:30:36.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "personandstudent.cs",
+              "DocumentMoniker": "D:\\dotnet\\inheritance_prectice\\inheritance_prectice\\personandstudent.cs",
+              "RelativeDocumentMoniker": "inheritance_prectice\\personandstudent.cs",
+              "ToolTip": "D:\\dotnet\\inheritance_prectice\\inheritance_prectice\\personandstudent.cs",
+              "RelativeToolTip": "inheritance_prectice\\personandstudent.cs",
+              "ViewState": "AgIAAAYAAAAAIzMzMzPjvxwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T08:21:49.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "question6.cs",
+              "DocumentMoniker": "D:\\dotnet\\inheritance_prectice\\inheritance_prectice\\question6.cs",
+              "RelativeDocumentMoniker": "inheritance_prectice\\question6.cs",
+              "ToolTip": "D:\\dotnet\\inheritance_prectice\\inheritance_prectice\\question6.cs",
+              "RelativeToolTip": "inheritance_prectice\\question6.cs",
+              "ViewState": "AgIAAAIAAAAAMzMzMzMLwAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T19:50:34.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\dotnet\\inheritance_prectice\\inheritance_prectice\\App.config",
+              "RelativeDocumentMoniker": "inheritance_prectice\\App.config",
+              "ToolTip": "D:\\dotnet\\inheritance_prectice\\inheritance_prectice\\App.config",
+              "RelativeToolTip": "inheritance_prectice\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-03T19:45:20.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "question5.cs",
+              "DocumentMoniker": "D:\\dotnet\\inheritance_prectice\\inheritance_prectice\\question5.cs",
+              "RelativeDocumentMoniker": "inheritance_prectice\\question5.cs",
+              "ToolTip": "D:\\dotnet\\inheritance_prectice\\inheritance_prectice\\question5.cs",
+              "RelativeToolTip": "inheritance_prectice\\question5.cs",
+              "ViewState": "AgIAABIAAAAgMzMzMzM6wB4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T19:38:34.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "inheritance_prectice",
+              "DocumentMoniker": "D:\\dotnet\\inheritance_prectice\\inheritance_prectice\\inheritance_prectice.csproj",
+              "RelativeDocumentMoniker": "inheritance_prectice\\inheritance_prectice.csproj",
+              "ToolTip": "D:\\dotnet\\inheritance_prectice\\inheritance_prectice\\inheritance_prectice.csproj",
+              "RelativeToolTip": "inheritance_prectice\\inheritance_prectice.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-03T18:50:44.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "question3.cs",
+              "DocumentMoniker": "D:\\dotnet\\inheritance_prectice\\inheritance_prectice\\question3.cs",
+              "RelativeDocumentMoniker": "inheritance_prectice\\question3.cs",
+              "ToolTip": "D:\\dotnet\\inheritance_prectice\\inheritance_prectice\\question3.cs",
+              "RelativeToolTip": "inheritance_prectice\\question3.cs",
+              "ViewState": "AgIAABEAAADA/P///38vwBgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T16:55:50.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "question2.cs",
+              "DocumentMoniker": "D:\\dotnet\\inheritance_prectice\\inheritance_prectice\\question2.cs",
+              "RelativeDocumentMoniker": "inheritance_prectice\\question2.cs",
+              "ToolTip": "D:\\dotnet\\inheritance_prectice\\inheritance_prectice\\question2.cs",
+              "RelativeToolTip": "inheritance_prectice\\question2.cs",
+              "ViewState": "AgIAABAAAABAy8zMzMwkwBoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T03:46:09.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dotnet\\inheritance_prectice\\inheritance_prectice\\Program.cs",
+              "RelativeDocumentMoniker": "inheritance_prectice\\Program.cs",
+              "ToolTip": "D:\\dotnet\\inheritance_prectice\\inheritance_prectice\\Program.cs",
+              "RelativeToolTip": "inheritance_prectice\\Program.cs",
+              "ViewState": "AgIAAAYAAABQAAAAAIApwBgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T18:56:56.365Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

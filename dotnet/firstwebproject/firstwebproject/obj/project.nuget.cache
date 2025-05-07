@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "iB3E1Kd58Xs=",
+  "success": true,
+  "projectFilePath": "D:\\dotnet\\firstwebproject\\firstwebproject\\firstwebproject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.12\\microsoft.dotnet.ilcompiler.8.0.12.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.12\\microsoft.net.illink.tasks.8.0.12.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.12\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.12.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json."
+    }
+  ]
+}

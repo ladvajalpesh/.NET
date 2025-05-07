@@ -1,0 +1,7 @@
+D:\dotnet\datatypes_prectice\datatypes_prectice\bin\Debug\datatypes_prectice.exe.config
+D:\dotnet\datatypes_prectice\datatypes_prectice\bin\Debug\datatypes_prectice.exe
+D:\dotnet\datatypes_prectice\datatypes_prectice\bin\Debug\datatypes_prectice.pdb
+D:\dotnet\datatypes_prectice\datatypes_prectice\obj\Debug\datatypes_prectice.csproj.AssemblyReference.cache
+D:\dotnet\datatypes_prectice\datatypes_prectice\obj\Debug\datatypes_prectice.csproj.CoreCompileInputs.cache
+D:\dotnet\datatypes_prectice\datatypes_prectice\obj\Debug\datatypes_prectice.exe
+D:\dotnet\datatypes_prectice\datatypes_prectice\obj\Debug\datatypes_prectice.pdb

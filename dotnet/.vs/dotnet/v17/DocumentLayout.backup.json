@@ -1,0 +1,1321 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dotnet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\ConsoleApp5\\ConsoleApp5\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp5\\ConsoleApp5\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\ConsoleApp5\\ConsoleApp1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp5\\ConsoleApp1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\ConsoleApp6\\ConsoleApp6\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp6\\ConsoleApp6\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\ConsoleApp4\\ConsoleApp4\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp4\\ConsoleApp4\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\ConsoleApp3\\ConsoleApp3\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp3\\ConsoleApp3\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\ConsoleApp2\\ConsoleApp2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp2\\ConsoleApp2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\ConsoleApp2\\ConsoleApp2\\Person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp2\\ConsoleApp2\\Person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\Collection_prectice\\Collection_prectice\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Collection_prectice\\Collection_prectice\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\Assignment\\Assignment\\parform_Operators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment\\Assignment\\parform_Operators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\Assignment\\assign2_array_prectice\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment\\assign2_array_prectice\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\assgniment3\\assgniment3\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assgniment3\\assgniment3\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\arrays_prectice\\arrays_prectice\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:arrays_prectice\\arrays_prectice\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\access_specifiers\\access_specifiers\\statickeyword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:access_specifiers\\access_specifiers\\statickeyword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\access_specifiers\\access_specifiers\\staticclasspro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:access_specifiers\\access_specifiers\\staticclasspro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\access_specifiers\\access_specifiers\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:access_specifiers\\access_specifiers\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\abstraction_prectice\\abstraction_prectice\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:abstraction_prectice\\abstraction_prectice\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\abstraction_prectice\\abstraction_prectice\\class5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:abstraction_prectice\\abstraction_prectice\\class5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\abstraction_prectice\\abstraction_prectice\\Class4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:abstraction_prectice\\abstraction_prectice\\Class4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\abstraction_prectice\\abstraction_prectice\\Class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:abstraction_prectice\\abstraction_prectice\\Class3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\abstraction_prectice\\abstraction_prectice\\Class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:abstraction_prectice\\abstraction_prectice\\Class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\abstraction_prectice\\abstraction_prectice\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:abstraction_prectice\\abstraction_prectice\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\ado_prectice\\ado_prectice\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ado_prectice\\ado_prectice\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\ado_prectice\\ado_prectice\\Properties\\AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ado_prectice\\ado_prectice\\Properties\\AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\interface_prectice\\interface_prectice\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:interface_prectice\\interface_prectice\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\design_pattern\\design_pattern\\factory_design_pattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:design_pattern\\design_pattern\\factory_design_pattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\indexer_prectice\\indexer_prectice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:indexer_prectice\\indexer_prectice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\indexer_prectice\\indexer_prectice\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:indexer_prectice\\indexer_prectice\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\overhiding_concept\\overhiding_concept\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:overhiding_concept\\overhiding_concept\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\prectice_setion\\prectice_setion\\basekeyword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:prectice_setion\\prectice_setion\\basekeyword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\sealedclass_program\\sealedclass_program\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:sealedclass_program\\sealedclass_program\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\prectice21-04-25\\prectice21-04-25\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:prectice21-04-25\\prectice21-04-25\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\first project\\array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:first project\\array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\lecture040425\\lecture040425\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lecture040425\\lecture040425\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\Hotel manegment\\Hotel manegment\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hotel manegment\\Hotel manegment\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\Hotel manegment\\Hotel manegment\\Views\\_ViewStart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hotel manegment\\Hotel manegment\\Views\\_ViewStart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\first project\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:first project\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\first project\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:first project\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\first project\\fibonaci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:first project\\fibonaci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\first project\\factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:first project\\factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\first project\\compute_sum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:first project\\compute_sum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\first project\\avereg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:first project\\avereg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\first project\\arrayprectice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:first project\\arrayprectice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\sealedclass_program\\sealedclass_program\\sealedclass_program.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:sealedclass_program\\sealedclass_program\\sealedclass_program.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\indexer_prectice\\indexer_prectice\\indexer_prectice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:indexer_prectice\\indexer_prectice\\indexer_prectice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\indexer_prectice\\indexer_prectice\\indexeroverloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:indexer_prectice\\indexer_prectice\\indexeroverloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\prectice_setion\\prectice_setion\\statickeyword_prectice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:prectice_setion\\prectice_setion\\statickeyword_prectice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\prectice_setion\\prectice_setion\\staticclassexm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:prectice_setion\\prectice_setion\\staticclassexm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\prectice_setion\\prectice_setion\\prectice_setion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:prectice_setion\\prectice_setion\\prectice_setion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\prectice_setion\\prectice_setion\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:prectice_setion\\prectice_setion\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\prectice_setion\\prectice_setion\\inheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:prectice_setion\\prectice_setion\\inheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\prectice_setion\\prectice_setion\\outkeyword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:prectice_setion\\prectice_setion\\outkeyword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\access_specifiers\\staticclasspro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:access_specifiers\\staticclasspro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\oops consept\\inheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:oops consept\\inheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\inheritance_prectice\\inheritance_prectice\\Class5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:inheritance_prectice\\inheritance_prectice\\Class5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\inheritance_prectice\\inheritance_prectice\\personandstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:inheritance_prectice\\inheritance_prectice\\personandstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\inheritance_prectice\\inheritance_prectice\\question2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:inheritance_prectice\\inheritance_prectice\\question2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\inheritance_prectice\\inheritance_prectice\\Class4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:inheritance_prectice\\inheritance_prectice\\Class4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\sealedclass_program\\sealedclass_program\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:sealedclass_program\\sealedclass_program\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\encapsulation_prectice\\encapsulation_prectice\\encapsulation_prectice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:encapsulation_prectice\\encapsulation_prectice\\encapsulation_prectice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\encapsulation_prectice\\encapsulation_prectice\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:encapsulation_prectice\\encapsulation_prectice\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\inheritance_prectice\\inheritance_prectice\\question6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:inheritance_prectice\\inheritance_prectice\\question6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\inheritance_prectice\\inheritance_prectice\\question5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:inheritance_prectice\\inheritance_prectice\\question5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\inheritance_prectice\\inheritance_prectice\\question4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:inheritance_prectice\\inheritance_prectice\\question4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\inheritance_prectice\\inheritance_prectice\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:inheritance_prectice\\inheritance_prectice\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\inheritance_prectice\\inheritance_prectice\\question3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:inheritance_prectice\\inheritance_prectice\\question3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\Assignment\\Assignment\\Assignment_1_typecasting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assignment\\Assignment\\Assignment_1_typecasting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\oops consept\\precticeQ5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:oops consept\\precticeQ5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\oops consept\\precticeQ6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:oops consept\\precticeQ6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\oops consept\\precticeQ4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:oops consept\\precticeQ4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\oops consept\\precticeQ3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:oops consept\\precticeQ3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\oops consept\\precticeQ2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:oops consept\\precticeQ2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\oops consept\\precticQ1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:oops consept\\precticQ1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\sum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:sum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\user_input.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:user_input.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\firstpro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:firstpro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\ifstate.c||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ifstate.c||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\dotnet\\simpleinterest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:simpleinterest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 350,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dotnet\\ConsoleApp6\\ConsoleApp6\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp6\\ConsoleApp6\\Program.cs",
+              "ToolTip": "D:\\dotnet\\ConsoleApp6\\ConsoleApp6\\Program.cs",
+              "RelativeToolTip": "ConsoleApp6\\ConsoleApp6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T16:09:54.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dotnet\\ConsoleApp5\\ConsoleApp5\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp5\\ConsoleApp5\\Program.cs",
+              "ToolTip": "D:\\dotnet\\ConsoleApp5\\ConsoleApp5\\Program.cs",
+              "RelativeToolTip": "ConsoleApp5\\ConsoleApp5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T16:09:10.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dotnet\\ConsoleApp5\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp5\\ConsoleApp1\\Program.cs",
+              "ToolTip": "D:\\dotnet\\ConsoleApp5\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp5\\ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T16:09:00.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dotnet\\ConsoleApp4\\ConsoleApp4\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp4\\ConsoleApp4\\Program.cs",
+              "ToolTip": "D:\\dotnet\\ConsoleApp4\\ConsoleApp4\\Program.cs",
+              "RelativeToolTip": "ConsoleApp4\\ConsoleApp4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T16:08:49.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dotnet\\ConsoleApp3\\ConsoleApp3\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp3\\ConsoleApp3\\Program.cs",
+              "ToolTip": "D:\\dotnet\\ConsoleApp3\\ConsoleApp3\\Program.cs",
+              "RelativeToolTip": "ConsoleApp3\\ConsoleApp3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T16:08:34.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dotnet\\ConsoleApp2\\ConsoleApp2\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\ConsoleApp2\\Program.cs",
+              "ToolTip": "D:\\dotnet\\ConsoleApp2\\ConsoleApp2\\Program.cs",
+              "RelativeToolTip": "ConsoleApp2\\ConsoleApp2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T16:08:19.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\dotnet\\ConsoleApp2\\ConsoleApp2\\Person.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\ConsoleApp2\\Person.cs",
+              "ToolTip": "D:\\dotnet\\ConsoleApp2\\ConsoleApp2\\Person.cs",
+              "RelativeToolTip": "ConsoleApp2\\ConsoleApp2\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T16:08:12.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dotnet\\Collection_prectice\\Collection_prectice\\Program.cs",
+              "RelativeDocumentMoniker": "Collection_prectice\\Collection_prectice\\Program.cs",
+              "ToolTip": "D:\\dotnet\\Collection_prectice\\Collection_prectice\\Program.cs",
+              "RelativeToolTip": "Collection_prectice\\Collection_prectice\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T16:07:34.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dotnet\\arrays_prectice\\arrays_prectice\\Program.cs",
+              "RelativeDocumentMoniker": "arrays_prectice\\arrays_prectice\\Program.cs",
+              "ToolTip": "D:\\dotnet\\arrays_prectice\\arrays_prectice\\Program.cs",
+              "RelativeToolTip": "arrays_prectice\\arrays_prectice\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T16:06:14.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Class4.cs",
+              "DocumentMoniker": "D:\\dotnet\\abstraction_prectice\\abstraction_prectice\\Class4.cs",
+              "RelativeDocumentMoniker": "abstraction_prectice\\abstraction_prectice\\Class4.cs",
+              "ToolTip": "D:\\dotnet\\abstraction_prectice\\abstraction_prectice\\Class4.cs",
+              "RelativeToolTip": "abstraction_prectice\\abstraction_prectice\\Class4.cs",
+              "ViewState": "AgIAAAQAAADAMjMzMzMbwAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T10:20:25.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "class5.cs",
+              "DocumentMoniker": "D:\\dotnet\\abstraction_prectice\\abstraction_prectice\\class5.cs",
+              "RelativeDocumentMoniker": "abstraction_prectice\\abstraction_prectice\\class5.cs",
+              "ToolTip": "D:\\dotnet\\abstraction_prectice\\abstraction_prectice\\class5.cs",
+              "RelativeToolTip": "abstraction_prectice\\abstraction_prectice\\class5.cs",
+              "ViewState": "AgIAAAUAAAAAaWZmZmb0vwgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T16:54:13.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dotnet\\abstraction_prectice\\abstraction_prectice\\Program.cs",
+              "RelativeDocumentMoniker": "abstraction_prectice\\abstraction_prectice\\Program.cs",
+              "ToolTip": "D:\\dotnet\\abstraction_prectice\\abstraction_prectice\\Program.cs",
+              "RelativeToolTip": "abstraction_prectice\\abstraction_prectice\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T11:08:08.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dotnet\\access_specifiers\\access_specifiers\\Program.cs",
+              "RelativeDocumentMoniker": "access_specifiers\\access_specifiers\\Program.cs",
+              "ToolTip": "D:\\dotnet\\access_specifiers\\access_specifiers\\Program.cs",
+              "RelativeToolTip": "access_specifiers\\access_specifiers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T12:02:16.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "staticclasspro.cs",
+              "DocumentMoniker": "D:\\dotnet\\access_specifiers\\access_specifiers\\staticclasspro.cs",
+              "RelativeDocumentMoniker": "access_specifiers\\access_specifiers\\staticclasspro.cs",
+              "ToolTip": "D:\\dotnet\\access_specifiers\\access_specifiers\\staticclasspro.cs",
+              "RelativeToolTip": "access_specifiers\\access_specifiers\\staticclasspro.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T15:21:21.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dotnet\\assgniment3\\assgniment3\\Program.cs",
+              "RelativeDocumentMoniker": "assgniment3\\assgniment3\\Program.cs",
+              "ToolTip": "D:\\dotnet\\assgniment3\\assgniment3\\Program.cs",
+              "RelativeToolTip": "assgniment3\\assgniment3\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAwPQ0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T07:57:37.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dotnet\\Assignment\\assign2_array_prectice\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment\\assign2_array_prectice\\Program.cs",
+              "ToolTip": "D:\\dotnet\\Assignment\\assign2_array_prectice\\Program.cs",
+              "RelativeToolTip": "Assignment\\assign2_array_prectice\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T05:32:31.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "parform_Operators.cs",
+              "DocumentMoniker": "D:\\dotnet\\Assignment\\Assignment\\parform_Operators.cs",
+              "RelativeDocumentMoniker": "Assignment\\Assignment\\parform_Operators.cs",
+              "ToolTip": "D:\\dotnet\\Assignment\\Assignment\\parform_Operators.cs",
+              "RelativeToolTip": "Assignment\\Assignment\\parform_Operators.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T05:32:49.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Class3.cs",
+              "DocumentMoniker": "D:\\dotnet\\abstraction_prectice\\abstraction_prectice\\Class3.cs",
+              "RelativeDocumentMoniker": "abstraction_prectice\\abstraction_prectice\\Class3.cs",
+              "ToolTip": "D:\\dotnet\\abstraction_prectice\\abstraction_prectice\\Class3.cs",
+              "RelativeToolTip": "abstraction_prectice\\abstraction_prectice\\Class3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T16:02:44.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Class2.cs",
+              "DocumentMoniker": "D:\\dotnet\\abstraction_prectice\\abstraction_prectice\\Class2.cs",
+              "RelativeDocumentMoniker": "abstraction_prectice\\abstraction_prectice\\Class2.cs",
+              "ToolTip": "D:\\dotnet\\abstraction_prectice\\abstraction_prectice\\Class2.cs",
+              "RelativeToolTip": "abstraction_prectice\\abstraction_prectice\\Class2.cs",
+              "ViewState": "AgIAAAMAAABAMjMzMzMbwAcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T10:20:22.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\dotnet\\abstraction_prectice\\abstraction_prectice\\Class1.cs",
+              "RelativeDocumentMoniker": "abstraction_prectice\\abstraction_prectice\\Class1.cs",
+              "ToolTip": "D:\\dotnet\\abstraction_prectice\\abstraction_prectice\\Class1.cs",
+              "RelativeToolTip": "abstraction_prectice\\abstraction_prectice\\Class1.cs",
+              "ViewState": "AgIAAA4AAAAgMzMzMzMrwA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T11:09:26.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "statickeyword.cs",
+              "DocumentMoniker": "D:\\dotnet\\access_specifiers\\access_specifiers\\statickeyword.cs",
+              "RelativeDocumentMoniker": "access_specifiers\\access_specifiers\\statickeyword.cs",
+              "ToolTip": "D:\\dotnet\\access_specifiers\\access_specifiers\\statickeyword.cs",
+              "RelativeToolTip": "access_specifiers\\access_specifiers\\statickeyword.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T10:20:31.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dotnet\\ado_prectice\\ado_prectice\\Program.cs",
+              "RelativeDocumentMoniker": "ado_prectice\\ado_prectice\\Program.cs",
+              "ToolTip": "D:\\dotnet\\ado_prectice\\ado_prectice\\Program.cs",
+              "RelativeToolTip": "ado_prectice\\ado_prectice\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T05:24:02.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\dotnet\\Hotel manegment\\Hotel manegment\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Hotel manegment\\Hotel manegment\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\dotnet\\Hotel manegment\\Hotel manegment\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Hotel manegment\\Hotel manegment\\Views\\Home\\Index.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T09:07:21.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "fibonaci.cs",
+              "DocumentMoniker": "D:\\dotnet\\first project\\fibonaci.cs",
+              "RelativeDocumentMoniker": "first project\\fibonaci.cs",
+              "ToolTip": "D:\\dotnet\\first project\\fibonaci.cs",
+              "RelativeToolTip": "first project\\fibonaci.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T04:55:04.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "table.cs",
+              "DocumentMoniker": "D:\\dotnet\\first project\\table.cs",
+              "RelativeDocumentMoniker": "first project\\table.cs",
+              "ToolTip": "D:\\dotnet\\first project\\table.cs",
+              "RelativeToolTip": "first project\\table.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T04:55:37.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\dotnet\\Hotel manegment\\Hotel manegment\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Hotel manegment\\Hotel manegment\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\dotnet\\Hotel manegment\\Hotel manegment\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Hotel manegment\\Hotel manegment\\Views\\_ViewStart.cshtml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T09:07:10.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "factory_design_pattern.cs",
+              "DocumentMoniker": "D:\\dotnet\\design_pattern\\design_pattern\\factory_design_pattern.cs",
+              "RelativeDocumentMoniker": "design_pattern\\design_pattern\\factory_design_pattern.cs",
+              "ToolTip": "D:\\dotnet\\design_pattern\\design_pattern\\factory_design_pattern.cs",
+              "RelativeToolTip": "design_pattern\\design_pattern\\factory_design_pattern.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T11:29:02.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\dotnet\\ado_prectice\\ado_prectice\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "ado_prectice\\ado_prectice\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "D:\\dotnet\\ado_prectice\\ado_prectice\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "ado_prectice\\ado_prectice\\Properties\\AssemblyInfo.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T18:15:02.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "factorial.cs",
+              "DocumentMoniker": "D:\\dotnet\\first project\\factorial.cs",
+              "RelativeDocumentMoniker": "first project\\factorial.cs",
+              "ToolTip": "D:\\dotnet\\first project\\factorial.cs",
+              "RelativeToolTip": "first project\\factorial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T04:54:07.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dotnet\\interface_prectice\\interface_prectice\\Program.cs",
+              "RelativeDocumentMoniker": "interface_prectice\\interface_prectice\\Program.cs",
+              "ToolTip": "D:\\dotnet\\interface_prectice\\interface_prectice\\Program.cs",
+              "RelativeToolTip": "interface_prectice\\interface_prectice\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T11:00:31.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "compute_sum.cs",
+              "DocumentMoniker": "D:\\dotnet\\first project\\compute_sum.cs",
+              "RelativeDocumentMoniker": "first project\\compute_sum.cs",
+              "ToolTip": "D:\\dotnet\\first project\\compute_sum.cs",
+              "RelativeToolTip": "first project\\compute_sum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T04:53:52.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "bank.cs",
+              "DocumentMoniker": "D:\\dotnet\\first project\\bank.cs",
+              "RelativeDocumentMoniker": "first project\\bank.cs",
+              "ToolTip": "D:\\dotnet\\first project\\bank.cs",
+              "RelativeToolTip": "first project\\bank.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAD4v0cAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T04:52:51.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "avereg.cs",
+              "DocumentMoniker": "D:\\dotnet\\first project\\avereg.cs",
+              "RelativeDocumentMoniker": "first project\\avereg.cs",
+              "ToolTip": "D:\\dotnet\\first project\\avereg.cs",
+              "RelativeToolTip": "first project\\avereg.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T04:51:50.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "arrayprectice.cs",
+              "DocumentMoniker": "D:\\dotnet\\first project\\arrayprectice.cs",
+              "RelativeDocumentMoniker": "first project\\arrayprectice.cs",
+              "ToolTip": "D:\\dotnet\\first project\\arrayprectice.cs",
+              "RelativeToolTip": "first project\\arrayprectice.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T04:51:17.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "array.cs",
+              "DocumentMoniker": "D:\\dotnet\\first project\\array.cs",
+              "RelativeDocumentMoniker": "first project\\array.cs",
+              "ToolTip": "D:\\dotnet\\first project\\array.cs",
+              "RelativeToolTip": "first project\\array.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T04:50:34.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dotnet\\prectice21-04-25\\prectice21-04-25\\Program.cs",
+              "RelativeDocumentMoniker": "prectice21-04-25\\prectice21-04-25\\Program.cs",
+              "ToolTip": "D:\\dotnet\\prectice21-04-25\\prectice21-04-25\\Program.cs",
+              "RelativeToolTip": "prectice21-04-25\\prectice21-04-25\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T09:27:13.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "sealedclass_program.csproj",
+              "DocumentMoniker": "D:\\dotnet\\sealedclass_program\\sealedclass_program\\sealedclass_program.csproj",
+              "RelativeDocumentMoniker": "sealedclass_program\\sealedclass_program\\sealedclass_program.csproj",
+              "ToolTip": "D:\\dotnet\\sealedclass_program\\sealedclass_program\\sealedclass_program.csproj",
+              "RelativeToolTip": "sealedclass_program\\sealedclass_program\\sealedclass_program.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-17T06:01:15.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "class1.cs",
+              "DocumentMoniker": "D:\\dotnet\\indexer_prectice\\indexer_prectice\\class1.cs",
+              "RelativeDocumentMoniker": "indexer_prectice\\indexer_prectice\\class1.cs",
+              "ToolTip": "D:\\dotnet\\indexer_prectice\\indexer_prectice\\class1.cs",
+              "RelativeToolTip": "indexer_prectice\\indexer_prectice\\class1.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwPRcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T16:16:58.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "indexer_prectice.csproj",
+              "DocumentMoniker": "D:\\dotnet\\indexer_prectice\\indexer_prectice\\indexer_prectice.csproj",
+              "RelativeDocumentMoniker": "indexer_prectice\\indexer_prectice\\indexer_prectice.csproj",
+              "ToolTip": "D:\\dotnet\\indexer_prectice\\indexer_prectice\\indexer_prectice.csproj",
+              "RelativeToolTip": "indexer_prectice\\indexer_prectice\\indexer_prectice.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-13T16:16:54.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "indexeroverloading.cs",
+              "DocumentMoniker": "D:\\dotnet\\indexer_prectice\\indexer_prectice\\indexeroverloading.cs",
+              "RelativeDocumentMoniker": "indexer_prectice\\indexer_prectice\\indexeroverloading.cs",
+              "ToolTip": "D:\\dotnet\\indexer_prectice\\indexer_prectice\\indexeroverloading.cs",
+              "RelativeToolTip": "indexer_prectice\\indexer_prectice\\indexeroverloading.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T07:23:02.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dotnet\\indexer_prectice\\indexer_prectice\\Program.cs",
+              "RelativeDocumentMoniker": "indexer_prectice\\indexer_prectice\\Program.cs",
+              "ToolTip": "D:\\dotnet\\indexer_prectice\\indexer_prectice\\Program.cs",
+              "RelativeToolTip": "indexer_prectice\\indexer_prectice\\Program.cs",
+              "ViewState": "AgIAABAAAADgZGZmZmYkwAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T05:00:10.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "staticclassexm.cs",
+              "DocumentMoniker": "D:\\dotnet\\prectice_setion\\prectice_setion\\staticclassexm.cs",
+              "RelativeDocumentMoniker": "prectice_setion\\prectice_setion\\staticclassexm.cs",
+              "ToolTip": "D:\\dotnet\\prectice_setion\\prectice_setion\\staticclassexm.cs",
+              "RelativeToolTip": "prectice_setion\\prectice_setion\\staticclassexm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T07:38:37.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "prectice_setion.csproj",
+              "DocumentMoniker": "D:\\dotnet\\prectice_setion\\prectice_setion\\prectice_setion.csproj",
+              "RelativeDocumentMoniker": "prectice_setion\\prectice_setion\\prectice_setion.csproj",
+              "ToolTip": "D:\\dotnet\\prectice_setion\\prectice_setion\\prectice_setion.csproj",
+              "RelativeToolTip": "prectice_setion\\prectice_setion\\prectice_setion.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-10T05:52:56.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dotnet\\prectice_setion\\prectice_setion\\Program.cs",
+              "RelativeDocumentMoniker": "prectice_setion\\prectice_setion\\Program.cs",
+              "ToolTip": "D:\\dotnet\\prectice_setion\\prectice_setion\\Program.cs",
+              "RelativeToolTip": "prectice_setion\\prectice_setion\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T18:30:45.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "statickeyword_prectice.cs",
+              "DocumentMoniker": "D:\\dotnet\\prectice_setion\\prectice_setion\\statickeyword_prectice.cs",
+              "RelativeDocumentMoniker": "prectice_setion\\prectice_setion\\statickeyword_prectice.cs",
+              "ToolTip": "D:\\dotnet\\prectice_setion\\prectice_setion\\statickeyword_prectice.cs",
+              "RelativeToolTip": "prectice_setion\\prectice_setion\\statickeyword_prectice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T18:30:39.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "basekeyword.cs",
+              "DocumentMoniker": "D:\\dotnet\\prectice_setion\\prectice_setion\\basekeyword.cs",
+              "RelativeDocumentMoniker": "prectice_setion\\prectice_setion\\basekeyword.cs",
+              "ToolTip": "D:\\dotnet\\prectice_setion\\prectice_setion\\basekeyword.cs",
+              "RelativeToolTip": "prectice_setion\\prectice_setion\\basekeyword.cs",
+              "ViewState": "AgIAAAAAAADg//////8gwAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T15:32:22.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "inheritance.cs",
+              "DocumentMoniker": "D:\\dotnet\\prectice_setion\\prectice_setion\\inheritance.cs",
+              "RelativeDocumentMoniker": "prectice_setion\\prectice_setion\\inheritance.cs",
+              "ToolTip": "D:\\dotnet\\prectice_setion\\prectice_setion\\inheritance.cs",
+              "RelativeToolTip": "prectice_setion\\prectice_setion\\inheritance.cs",
+              "ViewState": "AgIAABcAAACAMjMzMzMLwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T15:32:21.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "staticclasspro.cs",
+              "DocumentMoniker": "D:\\dotnet\\access_specifiers\\staticclasspro.cs",
+              "RelativeDocumentMoniker": "access_specifiers\\staticclasspro.cs",
+              "ToolTip": "D:\\dotnet\\access_specifiers\\staticclasspro.cs",
+              "RelativeToolTip": "access_specifiers\\staticclasspro.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T12:46:29.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Class5.cs",
+              "DocumentMoniker": "D:\\dotnet\\inheritance_prectice\\inheritance_prectice\\Class5.cs",
+              "RelativeDocumentMoniker": "inheritance_prectice\\inheritance_prectice\\Class5.cs",
+              "ToolTip": "D:\\dotnet\\inheritance_prectice\\inheritance_prectice\\Class5.cs",
+              "RelativeToolTip": "inheritance_prectice\\inheritance_prectice\\Class5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T11:21:18.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "outkeyword.cs",
+              "DocumentMoniker": "D:\\dotnet\\prectice_setion\\prectice_setion\\outkeyword.cs",
+              "RelativeDocumentMoniker": "prectice_setion\\prectice_setion\\outkeyword.cs",
+              "ToolTip": "D:\\dotnet\\prectice_setion\\prectice_setion\\outkeyword.cs",
+              "RelativeToolTip": "prectice_setion\\prectice_setion\\outkeyword.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T11:21:01.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "personandstudent.cs",
+              "DocumentMoniker": "D:\\dotnet\\inheritance_prectice\\inheritance_prectice\\personandstudent.cs",
+              "RelativeDocumentMoniker": "inheritance_prectice\\inheritance_prectice\\personandstudent.cs",
+              "ToolTip": "D:\\dotnet\\inheritance_prectice\\inheritance_prectice\\personandstudent.cs",
+              "RelativeToolTip": "inheritance_prectice\\inheritance_prectice\\personandstudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T10:19:43.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Class4.cs",
+              "DocumentMoniker": "D:\\dotnet\\inheritance_prectice\\inheritance_prectice\\Class4.cs",
+              "RelativeDocumentMoniker": "inheritance_prectice\\inheritance_prectice\\Class4.cs",
+              "ToolTip": "D:\\dotnet\\inheritance_prectice\\inheritance_prectice\\Class4.cs",
+              "RelativeToolTip": "inheritance_prectice\\inheritance_prectice\\Class4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T10:19:37.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\dotnet\\sealedclass_program\\sealedclass_program\\App.config",
+              "RelativeDocumentMoniker": "sealedclass_program\\sealedclass_program\\App.config",
+              "ToolTip": "D:\\dotnet\\sealedclass_program\\sealedclass_program\\App.config",
+              "RelativeToolTip": "sealedclass_program\\sealedclass_program\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-09T03:48:45.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dotnet\\sealedclass_program\\sealedclass_program\\Program.cs",
+              "RelativeDocumentMoniker": "sealedclass_program\\sealedclass_program\\Program.cs",
+              "ToolTip": "D:\\dotnet\\sealedclass_program\\sealedclass_program\\Program.cs",
+              "RelativeToolTip": "sealedclass_program\\sealedclass_program\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T19:16:59.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dotnet\\overhiding_concept\\overhiding_concept\\Program.cs",
+              "RelativeDocumentMoniker": "overhiding_concept\\overhiding_concept\\Program.cs",
+              "ToolTip": "D:\\dotnet\\overhiding_concept\\overhiding_concept\\Program.cs",
+              "RelativeToolTip": "overhiding_concept\\overhiding_concept\\Program.cs",
+              "ViewState": "AgIAACIAAACALTMzM3MvwBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T19:02:41.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\dotnet\\encapsulation_prectice\\encapsulation_prectice\\App.config",
+              "RelativeDocumentMoniker": "encapsulation_prectice\\encapsulation_prectice\\App.config",
+              "ToolTip": "D:\\dotnet\\encapsulation_prectice\\encapsulation_prectice\\App.config",
+              "RelativeToolTip": "encapsulation_prectice\\encapsulation_prectice\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-07T07:56:38.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "encapsulation_prectice.csproj",
+              "DocumentMoniker": "D:\\dotnet\\encapsulation_prectice\\encapsulation_prectice\\encapsulation_prectice.csproj",
+              "RelativeDocumentMoniker": "encapsulation_prectice\\encapsulation_prectice\\encapsulation_prectice.csproj",
+              "ToolTip": "D:\\dotnet\\encapsulation_prectice\\encapsulation_prectice\\encapsulation_prectice.csproj",
+              "RelativeToolTip": "encapsulation_prectice\\encapsulation_prectice\\encapsulation_prectice.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-07T07:56:23.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "question6.cs",
+              "DocumentMoniker": "D:\\dotnet\\inheritance_prectice\\inheritance_prectice\\question6.cs",
+              "RelativeDocumentMoniker": "inheritance_prectice\\inheritance_prectice\\question6.cs",
+              "ToolTip": "D:\\dotnet\\inheritance_prectice\\inheritance_prectice\\question6.cs",
+              "RelativeToolTip": "inheritance_prectice\\inheritance_prectice\\question6.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T08:03:26.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "question4.cs",
+              "DocumentMoniker": "D:\\dotnet\\inheritance_prectice\\inheritance_prectice\\question4.cs",
+              "RelativeDocumentMoniker": "inheritance_prectice\\inheritance_prectice\\question4.cs",
+              "ToolTip": "D:\\dotnet\\inheritance_prectice\\inheritance_prectice\\question4.cs",
+              "RelativeToolTip": "inheritance_prectice\\inheritance_prectice\\question4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T08:03:20.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dotnet\\lecture040425\\lecture040425\\Program.cs",
+              "RelativeDocumentMoniker": "lecture040425\\lecture040425\\Program.cs",
+              "ToolTip": "D:\\dotnet\\lecture040425\\lecture040425\\Program.cs",
+              "RelativeToolTip": "lecture040425\\lecture040425\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T07:59:26.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Assignment_1_typecasting.cs",
+              "DocumentMoniker": "D:\\dotnet\\Assignment\\Assignment\\Assignment_1_typecasting.cs",
+              "RelativeDocumentMoniker": "Assignment\\Assignment\\Assignment_1_typecasting.cs",
+              "ToolTip": "D:\\dotnet\\Assignment\\Assignment\\Assignment_1_typecasting.cs",
+              "RelativeToolTip": "Assignment\\Assignment\\Assignment_1_typecasting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T07:58:42.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "question5.cs",
+              "DocumentMoniker": "D:\\dotnet\\inheritance_prectice\\inheritance_prectice\\question5.cs",
+              "RelativeDocumentMoniker": "inheritance_prectice\\inheritance_prectice\\question5.cs",
+              "ToolTip": "D:\\dotnet\\inheritance_prectice\\inheritance_prectice\\question5.cs",
+              "RelativeToolTip": "inheritance_prectice\\inheritance_prectice\\question5.cs",
+              "ViewState": "AgIAAA0AAABgzMzMzMwnwA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T19:47:32.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "question3.cs",
+              "DocumentMoniker": "D:\\dotnet\\inheritance_prectice\\inheritance_prectice\\question3.cs",
+              "RelativeDocumentMoniker": "inheritance_prectice\\inheritance_prectice\\question3.cs",
+              "ToolTip": "D:\\dotnet\\inheritance_prectice\\inheritance_prectice\\question3.cs",
+              "RelativeToolTip": "inheritance_prectice\\inheritance_prectice\\question3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T18:07:50.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "precticeQ6.cs",
+              "DocumentMoniker": "D:\\dotnet\\oops consept\\precticeQ6.cs",
+              "RelativeDocumentMoniker": "oops consept\\precticeQ6.cs",
+              "ToolTip": "D:\\dotnet\\oops consept\\precticeQ6.cs",
+              "RelativeToolTip": "oops consept\\precticeQ6.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T16:35:10.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "precticeQ5.cs",
+              "DocumentMoniker": "D:\\dotnet\\oops consept\\precticeQ5.cs",
+              "RelativeDocumentMoniker": "oops consept\\precticeQ5.cs",
+              "ToolTip": "D:\\dotnet\\oops consept\\precticeQ5.cs",
+              "RelativeToolTip": "oops consept\\precticeQ5.cs",
+              "ViewState": "AgIAAAUAAAAAZGZmZmYUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T16:34:52.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "precticeQ4.cs",
+              "DocumentMoniker": "D:\\dotnet\\oops consept\\precticeQ4.cs",
+              "RelativeDocumentMoniker": "oops consept\\precticeQ4.cs",
+              "ToolTip": "D:\\dotnet\\oops consept\\precticeQ4.cs",
+              "RelativeToolTip": "oops consept\\precticeQ4.cs",
+              "ViewState": "AgIAAAcAAABAMjMzMzMrwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T16:34:40.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "precticeQ3.cs",
+              "DocumentMoniker": "D:\\dotnet\\oops consept\\precticeQ3.cs",
+              "RelativeDocumentMoniker": "oops consept\\precticeQ3.cs",
+              "ToolTip": "D:\\dotnet\\oops consept\\precticeQ3.cs",
+              "RelativeToolTip": "oops consept\\precticeQ3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T16:34:35.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "precticeQ2.cs",
+              "DocumentMoniker": "D:\\dotnet\\oops consept\\precticeQ2.cs",
+              "RelativeDocumentMoniker": "oops consept\\precticeQ2.cs",
+              "ToolTip": "D:\\dotnet\\oops consept\\precticeQ2.cs",
+              "RelativeToolTip": "oops consept\\precticeQ2.cs",
+              "ViewState": "AgIAAAwAAADAKzMzMzMLwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T16:34:05.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "precticQ1.cs",
+              "DocumentMoniker": "D:\\dotnet\\oops consept\\precticQ1.cs",
+              "RelativeDocumentMoniker": "oops consept\\precticQ1.cs",
+              "ToolTip": "D:\\dotnet\\oops consept\\precticQ1.cs",
+              "RelativeToolTip": "oops consept\\precticQ1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T16:33:56.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "question2.cs",
+              "DocumentMoniker": "D:\\dotnet\\inheritance_prectice\\inheritance_prectice\\question2.cs",
+              "RelativeDocumentMoniker": "inheritance_prectice\\inheritance_prectice\\question2.cs",
+              "ToolTip": "D:\\dotnet\\inheritance_prectice\\inheritance_prectice\\question2.cs",
+              "RelativeToolTip": "inheritance_prectice\\inheritance_prectice\\question2.cs",
+              "ViewState": "AgIAAAQAAACwZWZmZmYkwAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T15:46:38.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dotnet\\inheritance_prectice\\inheritance_prectice\\Program.cs",
+              "RelativeDocumentMoniker": "inheritance_prectice\\inheritance_prectice\\Program.cs",
+              "ToolTip": "D:\\dotnet\\inheritance_prectice\\inheritance_prectice\\Program.cs",
+              "RelativeToolTip": "inheritance_prectice\\inheritance_prectice\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T15:46:37.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "inheritance.cs",
+              "DocumentMoniker": "D:\\dotnet\\oops consept\\inheritance.cs",
+              "RelativeDocumentMoniker": "oops consept\\inheritance.cs",
+              "ToolTip": "D:\\dotnet\\oops consept\\inheritance.cs",
+              "RelativeToolTip": "oops consept\\inheritance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T18:44:14.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "sum.cs",
+              "DocumentMoniker": "D:\\dotnet\\sum.cs",
+              "RelativeDocumentMoniker": "sum.cs",
+              "ToolTip": "D:\\dotnet\\sum.cs",
+              "RelativeToolTip": "sum.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T09:41:53.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "simpleinterest.cs",
+              "DocumentMoniker": "D:\\dotnet\\simpleinterest.cs",
+              "RelativeDocumentMoniker": "simpleinterest.cs",
+              "ToolTip": "D:\\dotnet\\simpleinterest.cs",
+              "RelativeToolTip": "simpleinterest.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T09:38:34.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "ifstate.c",
+              "DocumentMoniker": "D:\\dotnet\\ifstate.c",
+              "RelativeDocumentMoniker": "ifstate.c",
+              "ToolTip": "D:\\dotnet\\ifstate.c",
+              "RelativeToolTip": "ifstate.c",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-10T09:38:26.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "firstpro.cs",
+              "DocumentMoniker": "D:\\dotnet\\firstpro.cs",
+              "RelativeDocumentMoniker": "firstpro.cs",
+              "ToolTip": "D:\\dotnet\\firstpro.cs",
+              "RelativeToolTip": "firstpro.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T09:38:19.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "user_input.cs",
+              "DocumentMoniker": "D:\\dotnet\\user_input.cs",
+              "RelativeDocumentMoniker": "user_input.cs",
+              "ToolTip": "D:\\dotnet\\user_input.cs",
+              "RelativeToolTip": "user_input.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T12:51:38.475Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 157,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

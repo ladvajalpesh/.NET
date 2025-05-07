@@ -1,0 +1,7 @@
+D:\dotnet\solid_principles\solid_principles\obj\Debug\solid_principles.csproj.AssemblyReference.cache
+D:\dotnet\solid_principles\solid_principles\obj\Debug\solid_principles.csproj.CoreCompileInputs.cache
+D:\dotnet\solid_principles\solid_principles\bin\Debug\solid_principles.exe.config
+D:\dotnet\solid_principles\solid_principles\bin\Debug\solid_principles.exe
+D:\dotnet\solid_principles\solid_principles\bin\Debug\solid_principles.pdb
+D:\dotnet\solid_principles\solid_principles\obj\Debug\solid_principles.exe
+D:\dotnet\solid_principles\solid_principles\obj\Debug\solid_principles.pdb

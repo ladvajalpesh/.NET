@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dotnet\\prectice_setion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF431EFF-4ACC-47B8-9C15-46CA4929131D}|prectice_setion\\prectice_setion.csproj|D:\\dotnet\\prectice_setion\\prectice_setion\\outkeyword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF431EFF-4ACC-47B8-9C15-46CA4929131D}|prectice_setion\\prectice_setion.csproj|solutionrelative:prectice_setion\\outkeyword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF431EFF-4ACC-47B8-9C15-46CA4929131D}|prectice_setion\\prectice_setion.csproj|d:\\dotnet\\prectice_setion\\prectice_setion\\statickeyword_prectice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF431EFF-4ACC-47B8-9C15-46CA4929131D}|prectice_setion\\prectice_setion.csproj|solutionrelative:prectice_setion\\statickeyword_prectice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF431EFF-4ACC-47B8-9C15-46CA4929131D}|prectice_setion\\prectice_setion.csproj|D:\\dotnet\\prectice_setion\\prectice_setion\\staticclassexm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF431EFF-4ACC-47B8-9C15-46CA4929131D}|prectice_setion\\prectice_setion.csproj|solutionrelative:prectice_setion\\staticclassexm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF431EFF-4ACC-47B8-9C15-46CA4929131D}|prectice_setion\\prectice_setion.csproj|D:\\dotnet\\prectice_setion\\prectice_setion\\basekeyword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF431EFF-4ACC-47B8-9C15-46CA4929131D}|prectice_setion\\prectice_setion.csproj|solutionrelative:prectice_setion\\basekeyword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|prectice_setion||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF431EFF-4ACC-47B8-9C15-46CA4929131D}|prectice_setion\\prectice_setion.csproj|D:\\dotnet\\prectice_setion\\prectice_setion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF431EFF-4ACC-47B8-9C15-46CA4929131D}|prectice_setion\\prectice_setion.csproj|solutionrelative:prectice_setion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF431EFF-4ACC-47B8-9C15-46CA4929131D}|prectice_setion\\prectice_setion.csproj|D:\\dotnet\\prectice_setion\\prectice_setion\\inheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF431EFF-4ACC-47B8-9C15-46CA4929131D}|prectice_setion\\prectice_setion.csproj|solutionrelative:prectice_setion\\inheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF431EFF-4ACC-47B8-9C15-46CA4929131D}|prectice_setion\\prectice_setion.csproj|d:\\dotnet\\prectice_setion\\prectice_setion\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "staticclassexm.cs",
+              "DocumentMoniker": "D:\\dotnet\\prectice_setion\\prectice_setion\\staticclassexm.cs",
+              "RelativeDocumentMoniker": "prectice_setion\\staticclassexm.cs",
+              "ToolTip": "D:\\dotnet\\prectice_setion\\prectice_setion\\staticclassexm.cs",
+              "RelativeToolTip": "prectice_setion\\staticclassexm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T06:06:40.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "basekeyword.cs",
+              "DocumentMoniker": "D:\\dotnet\\prectice_setion\\prectice_setion\\basekeyword.cs",
+              "RelativeDocumentMoniker": "prectice_setion\\basekeyword.cs",
+              "ToolTip": "D:\\dotnet\\prectice_setion\\prectice_setion\\basekeyword.cs",
+              "RelativeToolTip": "prectice_setion\\basekeyword.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T11:24:49.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "outkeyword.cs",
+              "DocumentMoniker": "D:\\dotnet\\prectice_setion\\prectice_setion\\outkeyword.cs",
+              "RelativeDocumentMoniker": "prectice_setion\\outkeyword.cs",
+              "ToolTip": "D:\\dotnet\\prectice_setion\\prectice_setion\\outkeyword.cs",
+              "RelativeToolTip": "prectice_setion\\outkeyword.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T10:26:38.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "statickeyword_prectice.cs",
+              "DocumentMoniker": "D:\\dotnet\\prectice_setion\\prectice_setion\\statickeyword_prectice.cs",
+              "RelativeDocumentMoniker": "prectice_setion\\statickeyword_prectice.cs",
+              "ToolTip": "D:\\dotnet\\prectice_setion\\prectice_setion\\statickeyword_prectice.cs",
+              "RelativeToolTip": "prectice_setion\\statickeyword_prectice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T10:10:01.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "inheritance.cs",
+              "DocumentMoniker": "D:\\dotnet\\prectice_setion\\prectice_setion\\inheritance.cs",
+              "RelativeDocumentMoniker": "prectice_setion\\inheritance.cs",
+              "ToolTip": "D:\\dotnet\\prectice_setion\\prectice_setion\\inheritance.cs",
+              "RelativeToolTip": "prectice_setion\\inheritance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T09:51:33.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "prectice_setion",
+              "DocumentMoniker": "D:\\dotnet\\prectice_setion\\prectice_setion\\prectice_setion.csproj",
+              "RelativeDocumentMoniker": "prectice_setion\\prectice_setion.csproj",
+              "ToolTip": "D:\\dotnet\\prectice_setion\\prectice_setion\\prectice_setion.csproj",
+              "RelativeToolTip": "prectice_setion\\prectice_setion.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-09T09:41:33.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dotnet\\prectice_setion\\prectice_setion\\Program.cs",
+              "RelativeDocumentMoniker": "prectice_setion\\Program.cs",
+              "ToolTip": "D:\\dotnet\\prectice_setion\\prectice_setion\\Program.cs",
+              "RelativeToolTip": "prectice_setion\\Program.cs",
+              "ViewState": "AgIAACEAAACgy8zMzOwzwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T09:20:26.636Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

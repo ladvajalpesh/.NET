@@ -1,0 +1,14 @@
+D:\dotnet\logicbuild_quetion\MyFirstApp\bin\Debug\net9.0\MyFirstApp.exe
+D:\dotnet\logicbuild_quetion\MyFirstApp\bin\Debug\net9.0\MyFirstApp.deps.json
+D:\dotnet\logicbuild_quetion\MyFirstApp\bin\Debug\net9.0\MyFirstApp.runtimeconfig.json
+D:\dotnet\logicbuild_quetion\MyFirstApp\bin\Debug\net9.0\MyFirstApp.dll
+D:\dotnet\logicbuild_quetion\MyFirstApp\bin\Debug\net9.0\MyFirstApp.pdb
+D:\dotnet\logicbuild_quetion\MyFirstApp\obj\Debug\net9.0\MyFirstApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\logicbuild_quetion\MyFirstApp\obj\Debug\net9.0\MyFirstApp.AssemblyInfoInputs.cache
+D:\dotnet\logicbuild_quetion\MyFirstApp\obj\Debug\net9.0\MyFirstApp.AssemblyInfo.cs
+D:\dotnet\logicbuild_quetion\MyFirstApp\obj\Debug\net9.0\MyFirstApp.csproj.CoreCompileInputs.cache
+D:\dotnet\logicbuild_quetion\MyFirstApp\obj\Debug\net9.0\MyFirstApp.dll
+D:\dotnet\logicbuild_quetion\MyFirstApp\obj\Debug\net9.0\refint\MyFirstApp.dll
+D:\dotnet\logicbuild_quetion\MyFirstApp\obj\Debug\net9.0\MyFirstApp.pdb
+D:\dotnet\logicbuild_quetion\MyFirstApp\obj\Debug\net9.0\MyFirstApp.genruntimeconfig.cache
+D:\dotnet\logicbuild_quetion\MyFirstApp\obj\Debug\net9.0\ref\MyFirstApp.dll

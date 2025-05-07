@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dotnet\\sealedclass_program\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B1B9271-D830-414B-B145-EAA062965F03}|sealedclass_program\\sealedclass_program.csproj|d:\\dotnet\\sealedclass_program\\sealedclass_program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B1B9271-D830-414B-B145-EAA062965F03}|sealedclass_program\\sealedclass_program.csproj|solutionrelative:sealedclass_program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dotnet\\sealedclass_program\\sealedclass_program\\Program.cs",
+              "RelativeDocumentMoniker": "sealedclass_program\\Program.cs",
+              "ToolTip": "D:\\dotnet\\sealedclass_program\\sealedclass_program\\Program.cs",
+              "RelativeToolTip": "sealedclass_program\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T11:16:35.397Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
