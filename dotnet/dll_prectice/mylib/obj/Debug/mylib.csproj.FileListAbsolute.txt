@@ -1,6 +1,0 @@
-D:\dotnet\dll_prectice\mylib\bin\Debug\mylib.dll
-D:\dotnet\dll_prectice\mylib\bin\Debug\mylib.pdb
-D:\dotnet\dll_prectice\mylib\obj\Debug\mylib.csproj.AssemblyReference.cache
-D:\dotnet\dll_prectice\mylib\obj\Debug\mylib.csproj.CoreCompileInputs.cache
-D:\dotnet\dll_prectice\mylib\obj\Debug\mylib.dll
-D:\dotnet\dll_prectice\mylib\obj\Debug\mylib.pdb

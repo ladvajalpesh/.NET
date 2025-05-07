@@ -1,7 +1,0 @@
-D:\dotnet\access_specifiers\access_specifiers\obj\Debug\access_specifiers.csproj.AssemblyReference.cache
-D:\dotnet\access_specifiers\access_specifiers\obj\Debug\access_specifiers.csproj.CoreCompileInputs.cache
-D:\dotnet\access_specifiers\access_specifiers\bin\Debug\access_specifiers.exe.config
-D:\dotnet\access_specifiers\access_specifiers\bin\Debug\access_specifiers.exe
-D:\dotnet\access_specifiers\access_specifiers\bin\Debug\access_specifiers.pdb
-D:\dotnet\access_specifiers\access_specifiers\obj\Debug\access_specifiers.exe
-D:\dotnet\access_specifiers\access_specifiers\obj\Debug\access_specifiers.pdb

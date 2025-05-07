@@ -1,7 +1,0 @@
-D:\dotnet\sealedclass_program\sealedclass_program\bin\Debug\sealedclass_program.exe.config
-D:\dotnet\sealedclass_program\sealedclass_program\bin\Debug\sealedclass_program.exe
-D:\dotnet\sealedclass_program\sealedclass_program\bin\Debug\sealedclass_program.pdb
-D:\dotnet\sealedclass_program\sealedclass_program\obj\Debug\sealedclass_program.csproj.AssemblyReference.cache
-D:\dotnet\sealedclass_program\sealedclass_program\obj\Debug\sealedclass_program.csproj.CoreCompileInputs.cache
-D:\dotnet\sealedclass_program\sealedclass_program\obj\Debug\sealedclass_program.exe
-D:\dotnet\sealedclass_program\sealedclass_program\obj\Debug\sealedclass_program.pdb

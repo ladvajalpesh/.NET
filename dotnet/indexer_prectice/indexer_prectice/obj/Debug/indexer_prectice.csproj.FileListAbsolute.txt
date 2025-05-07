@@ -1,7 +1,0 @@
-D:\dotnet\indexer_prectice\indexer_prectice\bin\Debug\indexer_prectice.exe.config
-D:\dotnet\indexer_prectice\indexer_prectice\bin\Debug\indexer_prectice.exe
-D:\dotnet\indexer_prectice\indexer_prectice\bin\Debug\indexer_prectice.pdb
-D:\dotnet\indexer_prectice\indexer_prectice\obj\Debug\indexer_prectice.csproj.AssemblyReference.cache
-D:\dotnet\indexer_prectice\indexer_prectice\obj\Debug\indexer_prectice.csproj.CoreCompileInputs.cache
-D:\dotnet\indexer_prectice\indexer_prectice\obj\Debug\indexer_prectice.exe
-D:\dotnet\indexer_prectice\indexer_prectice\obj\Debug\indexer_prectice.pdb

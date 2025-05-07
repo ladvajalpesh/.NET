@@ -1,7 +1,0 @@
-D:\dotnet\arrays_prectice\arrays_prectice\bin\Debug\arrays_prectice.exe.config
-D:\dotnet\arrays_prectice\arrays_prectice\bin\Debug\arrays_prectice.exe
-D:\dotnet\arrays_prectice\arrays_prectice\bin\Debug\arrays_prectice.pdb
-D:\dotnet\arrays_prectice\arrays_prectice\obj\Debug\arrays_prectice.csproj.AssemblyReference.cache
-D:\dotnet\arrays_prectice\arrays_prectice\obj\Debug\arrays_prectice.csproj.CoreCompileInputs.cache
-D:\dotnet\arrays_prectice\arrays_prectice\obj\Debug\arrays_prectice.exe
-D:\dotnet\arrays_prectice\arrays_prectice\obj\Debug\arrays_prectice.pdb

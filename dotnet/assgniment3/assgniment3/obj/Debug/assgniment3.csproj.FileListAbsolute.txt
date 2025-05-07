@@ -1,7 +1,0 @@
-D:\dotnet\assgniment3\assgniment3\bin\Debug\assgniment3.exe.config
-D:\dotnet\assgniment3\assgniment3\bin\Debug\assgniment3.exe
-D:\dotnet\assgniment3\assgniment3\bin\Debug\assgniment3.pdb
-D:\dotnet\assgniment3\assgniment3\obj\Debug\assgniment3.csproj.AssemblyReference.cache
-D:\dotnet\assgniment3\assgniment3\obj\Debug\assgniment3.csproj.CoreCompileInputs.cache
-D:\dotnet\assgniment3\assgniment3\obj\Debug\assgniment3.exe
-D:\dotnet\assgniment3\assgniment3\obj\Debug\assgniment3.pdb
