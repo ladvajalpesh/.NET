@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dotnet\\access_specifiers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEDF9A7-0516-4068-BB12-1CE18E14CD74}|access_specifiers\\access_specifiers.csproj|D:\\dotnet\\access_specifiers\\access_specifiers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EEDF9A7-0516-4068-BB12-1CE18E14CD74}|access_specifiers\\access_specifiers.csproj|solutionrelative:access_specifiers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|access_specifiers||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEDF9A7-0516-4068-BB12-1CE18E14CD74}|access_specifiers\\access_specifiers.csproj|d:\\dotnet\\access_specifiers\\access_specifiers\\statickeyword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EEDF9A7-0516-4068-BB12-1CE18E14CD74}|access_specifiers\\access_specifiers.csproj|solutionrelative:access_specifiers\\statickeyword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EEDF9A7-0516-4068-BB12-1CE18E14CD74}|access_specifiers\\access_specifiers.csproj|d:\\dotnet\\access_specifiers\\access_specifiers\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "access_specifiers",
+              "DocumentMoniker": "D:\\dotnet\\access_specifiers\\access_specifiers\\access_specifiers.csproj",
+              "RelativeDocumentMoniker": "access_specifiers\\access_specifiers.csproj",
+              "ToolTip": "D:\\dotnet\\access_specifiers\\access_specifiers\\access_specifiers.csproj",
+              "RelativeToolTip": "access_specifiers\\access_specifiers.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-09T18:25:01.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "statickeyword.cs",
+              "DocumentMoniker": "D:\\dotnet\\access_specifiers\\access_specifiers\\statickeyword.cs",
+              "RelativeDocumentMoniker": "access_specifiers\\statickeyword.cs",
+              "ToolTip": "D:\\dotnet\\access_specifiers\\access_specifiers\\statickeyword.cs",
+              "RelativeToolTip": "access_specifiers\\statickeyword.cs",
+              "ViewState": "AgIAABYAAADAMjMzM/MkwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T06:18:01.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dotnet\\access_specifiers\\access_specifiers\\Program.cs",
+              "RelativeDocumentMoniker": "access_specifiers\\Program.cs",
+              "ToolTip": "D:\\dotnet\\access_specifiers\\access_specifiers\\Program.cs",
+              "RelativeToolTip": "access_specifiers\\Program.cs",
+              "ViewState": "AgIAABYAAADgMTMzM3MvwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T04:19:20.303Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

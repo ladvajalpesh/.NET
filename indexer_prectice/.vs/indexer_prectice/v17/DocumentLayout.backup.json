@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dotnet\\indexer_prectice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56CC3EF0-DE70-43CF-B4FF-A6A0FBEFF2B8}|indexer_prectice\\indexer_prectice.csproj|d:\\dotnet\\indexer_prectice\\indexer_prectice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56CC3EF0-DE70-43CF-B4FF-A6A0FBEFF2B8}|indexer_prectice\\indexer_prectice.csproj|solutionrelative:indexer_prectice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|indexer_prectice||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CC3EF0-DE70-43CF-B4FF-A6A0FBEFF2B8}|indexer_prectice\\indexer_prectice.csproj|D:\\dotnet\\indexer_prectice\\indexer_prectice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56CC3EF0-DE70-43CF-B4FF-A6A0FBEFF2B8}|indexer_prectice\\indexer_prectice.csproj|solutionrelative:indexer_prectice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CC3EF0-DE70-43CF-B4FF-A6A0FBEFF2B8}|indexer_prectice\\indexer_prectice.csproj|d:\\dotnet\\indexer_prectice\\indexer_prectice\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "indexer_prectice",
+              "DocumentMoniker": "D:\\dotnet\\indexer_prectice\\indexer_prectice\\indexer_prectice.csproj",
+              "RelativeDocumentMoniker": "indexer_prectice\\indexer_prectice.csproj",
+              "ToolTip": "D:\\dotnet\\indexer_prectice\\indexer_prectice\\indexer_prectice.csproj*",
+              "RelativeToolTip": "indexer_prectice\\indexer_prectice.csproj*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-11T05:53:46.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "class1.cs",
+              "DocumentMoniker": "D:\\dotnet\\indexer_prectice\\indexer_prectice\\class1.cs",
+              "RelativeDocumentMoniker": "indexer_prectice\\class1.cs",
+              "ToolTip": "D:\\dotnet\\indexer_prectice\\indexer_prectice\\class1.cs",
+              "RelativeToolTip": "indexer_prectice\\class1.cs",
+              "ViewState": "AgIAAAIAAABQZmZmZsY2wAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T05:36:52.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dotnet\\indexer_prectice\\indexer_prectice\\Program.cs",
+              "RelativeDocumentMoniker": "indexer_prectice\\Program.cs",
+              "ToolTip": "D:\\dotnet\\indexer_prectice\\indexer_prectice\\Program.cs",
+              "RelativeToolTip": "indexer_prectice\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T19:54:40.948Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

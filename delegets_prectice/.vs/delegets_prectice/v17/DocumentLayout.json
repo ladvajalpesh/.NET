@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dotnet\\delegets_prectice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B078B7B-0941-4662-ABF8-D50BA77FBC43}|delegets_prectice\\delegets_prectice.csproj|d:\\dotnet\\delegets_prectice\\delegets_prectice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B078B7B-0941-4662-ABF8-D50BA77FBC43}|delegets_prectice\\delegets_prectice.csproj|solutionrelative:delegets_prectice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dotnet\\delegets_prectice\\delegets_prectice\\Program.cs",
+              "RelativeDocumentMoniker": "delegets_prectice\\Program.cs",
+              "ToolTip": "D:\\dotnet\\delegets_prectice\\delegets_prectice\\Program.cs",
+              "RelativeToolTip": "delegets_prectice\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAABAPR4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T18:21:10.625Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

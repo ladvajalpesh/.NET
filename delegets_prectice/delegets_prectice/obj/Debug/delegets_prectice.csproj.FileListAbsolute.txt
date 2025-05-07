@@ -1,0 +1,7 @@
+D:\dotnet\delegets_prectice\delegets_prectice\bin\Debug\delegets_prectice.exe.config
+D:\dotnet\delegets_prectice\delegets_prectice\bin\Debug\delegets_prectice.exe
+D:\dotnet\delegets_prectice\delegets_prectice\bin\Debug\delegets_prectice.pdb
+D:\dotnet\delegets_prectice\delegets_prectice\obj\Debug\delegets_prectice.csproj.AssemblyReference.cache
+D:\dotnet\delegets_prectice\delegets_prectice\obj\Debug\delegets_prectice.csproj.CoreCompileInputs.cache
+D:\dotnet\delegets_prectice\delegets_prectice\obj\Debug\delegets_prectice.exe
+D:\dotnet\delegets_prectice\delegets_prectice\obj\Debug\delegets_prectice.pdb

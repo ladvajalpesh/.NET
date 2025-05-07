@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dotnet\\Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A159DF7-016A-469E-9E25-8F3EF973DE59}|Assignment\\Assignment.csproj|d:\\dotnet\\assignment\\assignment\\assignment_1_typecasting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A159DF7-016A-469E-9E25-8F3EF973DE59}|Assignment\\Assignment.csproj|solutionrelative:assignment\\assignment_1_typecasting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B98057-3D18-442C-9214-0876E79FA071}|assign2_array_prectice\\assign2_array_prectice.csproj|D:\\dotnet\\Assignment\\assign2_array_prectice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2B98057-3D18-442C-9214-0876E79FA071}|assign2_array_prectice\\assign2_array_prectice.csproj|solutionrelative:assign2_array_prectice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A159DF7-016A-469E-9E25-8F3EF973DE59}|Assignment\\Assignment.csproj|D:\\dotnet\\Assignment\\assignment\\parform_operators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A159DF7-016A-469E-9E25-8F3EF973DE59}|Assignment\\Assignment.csproj|solutionrelative:assignment\\parform_operators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dotnet\\Assignment\\assign2_array_prectice\\Program.cs",
+              "RelativeDocumentMoniker": "assign2_array_prectice\\Program.cs",
+              "ToolTip": "D:\\dotnet\\Assignment\\assign2_array_prectice\\Program.cs",
+              "RelativeToolTip": "assign2_array_prectice\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T10:27:31.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "parform_Operators.cs",
+              "DocumentMoniker": "D:\\dotnet\\Assignment\\Assignment\\parform_Operators.cs",
+              "RelativeDocumentMoniker": "Assignment\\parform_Operators.cs",
+              "ToolTip": "D:\\dotnet\\Assignment\\Assignment\\parform_Operators.cs",
+              "RelativeToolTip": "Assignment\\parform_Operators.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T04:51:06.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Assignment_1_typecasting.cs",
+              "DocumentMoniker": "D:\\dotnet\\Assignment\\Assignment\\Assignment_1_typecasting.cs",
+              "RelativeDocumentMoniker": "Assignment\\Assignment_1_typecasting.cs",
+              "ToolTip": "D:\\dotnet\\Assignment\\Assignment\\Assignment_1_typecasting.cs",
+              "RelativeToolTip": "Assignment\\Assignment_1_typecasting.cs",
+              "ViewState": "AgIAABoAAAAALDMzMzPzvxMAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T17:35:40.236Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

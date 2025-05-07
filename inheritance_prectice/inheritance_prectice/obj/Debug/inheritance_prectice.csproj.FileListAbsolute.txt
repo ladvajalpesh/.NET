@@ -1,0 +1,7 @@
+D:\dotnet\inheritance_prectice\inheritance_prectice\bin\Debug\inheritance_prectice.exe.config
+D:\dotnet\inheritance_prectice\inheritance_prectice\bin\Debug\inheritance_prectice.exe
+D:\dotnet\inheritance_prectice\inheritance_prectice\bin\Debug\inheritance_prectice.pdb
+D:\dotnet\inheritance_prectice\inheritance_prectice\obj\Debug\inheritance_prectice.csproj.AssemblyReference.cache
+D:\dotnet\inheritance_prectice\inheritance_prectice\obj\Debug\inheritance_prectice.csproj.CoreCompileInputs.cache
+D:\dotnet\inheritance_prectice\inheritance_prectice\obj\Debug\inheritance_prectice.exe
+D:\dotnet\inheritance_prectice\inheritance_prectice\obj\Debug\inheritance_prectice.pdb

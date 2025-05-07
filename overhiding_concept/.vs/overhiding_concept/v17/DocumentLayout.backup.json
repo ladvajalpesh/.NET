@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dotnet\\overhiding_concept\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{485643E1-ECF8-4863-BFB6-AD59E475F993}|overhiding_concept\\overhiding_concept.csproj|d:\\dotnet\\overhiding_concept\\overhiding_concept\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{485643E1-ECF8-4863-BFB6-AD59E475F993}|overhiding_concept\\overhiding_concept.csproj|solutionrelative:overhiding_concept\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dotnet\\overhiding_concept\\overhiding_concept\\Program.cs",
+              "RelativeDocumentMoniker": "overhiding_concept\\Program.cs",
+              "ToolTip": "D:\\dotnet\\overhiding_concept\\overhiding_concept\\Program.cs",
+              "RelativeToolTip": "overhiding_concept\\Program.cs",
+              "ViewState": "AgIAAA0AAAAA0MzMzMwewA4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T10:57:39.583Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

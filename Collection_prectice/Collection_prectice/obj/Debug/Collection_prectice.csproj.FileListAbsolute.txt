@@ -1,0 +1,7 @@
+D:\dotnet\Collection_prectice\Collection_prectice\bin\Debug\Collection_prectice.exe.config
+D:\dotnet\Collection_prectice\Collection_prectice\bin\Debug\Collection_prectice.exe
+D:\dotnet\Collection_prectice\Collection_prectice\bin\Debug\Collection_prectice.pdb
+D:\dotnet\Collection_prectice\Collection_prectice\obj\Debug\Collection_prectice.csproj.AssemblyReference.cache
+D:\dotnet\Collection_prectice\Collection_prectice\obj\Debug\Collection_prectice.csproj.CoreCompileInputs.cache
+D:\dotnet\Collection_prectice\Collection_prectice\obj\Debug\Collection_prectice.exe
+D:\dotnet\Collection_prectice\Collection_prectice\obj\Debug\Collection_prectice.pdb

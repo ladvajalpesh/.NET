@@ -1,0 +1,7 @@
+D:\dotnet\interface_prectice\interface_prectice\obj\Debug\interface_prectice.csproj.AssemblyReference.cache
+D:\dotnet\interface_prectice\interface_prectice\obj\Debug\interface_prectice.csproj.CoreCompileInputs.cache
+D:\dotnet\interface_prectice\interface_prectice\bin\Debug\interface_prectice.exe.config
+D:\dotnet\interface_prectice\interface_prectice\bin\Debug\interface_prectice.exe
+D:\dotnet\interface_prectice\interface_prectice\bin\Debug\interface_prectice.pdb
+D:\dotnet\interface_prectice\interface_prectice\obj\Debug\interface_prectice.exe
+D:\dotnet\interface_prectice\interface_prectice\obj\Debug\interface_prectice.pdb
