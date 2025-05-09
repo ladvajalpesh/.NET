@@ -1,7 +1,0 @@
-D:\dotnet\abstraction_prectice\abstraction_prectice\bin\Debug\abstraction_prectice.exe.config
-D:\dotnet\abstraction_prectice\abstraction_prectice\bin\Debug\abstraction_prectice.exe
-D:\dotnet\abstraction_prectice\abstraction_prectice\bin\Debug\abstraction_prectice.pdb
-D:\dotnet\abstraction_prectice\abstraction_prectice\obj\Debug\abstraction_prectice.csproj.AssemblyReference.cache
-D:\dotnet\abstraction_prectice\abstraction_prectice\obj\Debug\abstraction_prectice.csproj.CoreCompileInputs.cache
-D:\dotnet\abstraction_prectice\abstraction_prectice\obj\Debug\abstraction_prectice.exe
-D:\dotnet\abstraction_prectice\abstraction_prectice\obj\Debug\abstraction_prectice.pdb

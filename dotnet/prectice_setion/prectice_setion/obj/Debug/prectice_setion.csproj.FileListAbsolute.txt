@@ -1,7 +1,0 @@
-D:\dotnet\prectice_setion\prectice_setion\bin\Debug\prectice_setion.exe.config
-D:\dotnet\prectice_setion\prectice_setion\bin\Debug\prectice_setion.exe
-D:\dotnet\prectice_setion\prectice_setion\bin\Debug\prectice_setion.pdb
-D:\dotnet\prectice_setion\prectice_setion\obj\Debug\prectice_setion.csproj.AssemblyReference.cache
-D:\dotnet\prectice_setion\prectice_setion\obj\Debug\prectice_setion.csproj.CoreCompileInputs.cache
-D:\dotnet\prectice_setion\prectice_setion\obj\Debug\prectice_setion.exe
-D:\dotnet\prectice_setion\prectice_setion\obj\Debug\prectice_setion.pdb

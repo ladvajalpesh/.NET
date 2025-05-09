@@ -1,7 +1,0 @@
-D:\dotnet\lecture040425\lecture040425\bin\Debug\lecture040425.exe.config
-D:\dotnet\lecture040425\lecture040425\bin\Debug\lecture040425.exe
-D:\dotnet\lecture040425\lecture040425\bin\Debug\lecture040425.pdb
-D:\dotnet\lecture040425\lecture040425\obj\Debug\lecture040425.csproj.AssemblyReference.cache
-D:\dotnet\lecture040425\lecture040425\obj\Debug\lecture040425.csproj.CoreCompileInputs.cache
-D:\dotnet\lecture040425\lecture040425\obj\Debug\lecture040425.exe
-D:\dotnet\lecture040425\lecture040425\obj\Debug\lecture040425.pdb

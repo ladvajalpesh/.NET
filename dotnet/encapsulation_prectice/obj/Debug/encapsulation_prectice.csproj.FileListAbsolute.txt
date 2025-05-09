@@ -1,7 +1,0 @@
-D:\dotnet\encapsulation_prectice\bin\Debug\encapsulation_prectice.exe.config
-D:\dotnet\encapsulation_prectice\bin\Debug\encapsulation_prectice.exe
-D:\dotnet\encapsulation_prectice\bin\Debug\encapsulation_prectice.pdb
-D:\dotnet\encapsulation_prectice\obj\Debug\encapsulation_prectice.csproj.AssemblyReference.cache
-D:\dotnet\encapsulation_prectice\obj\Debug\encapsulation_prectice.csproj.CoreCompileInputs.cache
-D:\dotnet\encapsulation_prectice\obj\Debug\encapsulation_prectice.exe
-D:\dotnet\encapsulation_prectice\obj\Debug\encapsulation_prectice.pdb

@@ -1,7 +1,0 @@
-D:\dotnet\overhiding_concept\overhiding_concept\bin\Debug\overhiding_concept.exe.config
-D:\dotnet\overhiding_concept\overhiding_concept\bin\Debug\overhiding_concept.exe
-D:\dotnet\overhiding_concept\overhiding_concept\bin\Debug\overhiding_concept.pdb
-D:\dotnet\overhiding_concept\overhiding_concept\obj\Debug\overhiding_concept.csproj.AssemblyReference.cache
-D:\dotnet\overhiding_concept\overhiding_concept\obj\Debug\overhiding_concept.csproj.CoreCompileInputs.cache
-D:\dotnet\overhiding_concept\overhiding_concept\obj\Debug\overhiding_concept.exe
-D:\dotnet\overhiding_concept\overhiding_concept\obj\Debug\overhiding_concept.pdb

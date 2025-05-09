@@ -1,7 +1,0 @@
-D:\dotnet\oops consept\bin\Debug\oops consept.exe.config
-D:\dotnet\oops consept\bin\Debug\oops consept.exe
-D:\dotnet\oops consept\bin\Debug\oops consept.pdb
-D:\dotnet\oops consept\obj\Debug\oops consept.csproj.AssemblyReference.cache
-D:\dotnet\oops consept\obj\Debug\oops consept.csproj.CoreCompileInputs.cache
-D:\dotnet\oops consept\obj\Debug\oops consept.exe
-D:\dotnet\oops consept\obj\Debug\oops consept.pdb
